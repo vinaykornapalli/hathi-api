@@ -1,0 +1,14 @@
+{
+  "name": "hathi-api",
+  "version": "1.0.0",
+  "description": "secret",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinaycr7",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
